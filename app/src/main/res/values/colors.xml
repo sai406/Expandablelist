@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#70C7DC</color>
+    <color name="colorPrimaryDark">#D3D3D3</color>
+    <color name="colorAccent">#BC004E</color>
+    <color name="colorButton">#BC004E</color>
+    <color name="colorBackground">#22788D</color>
+    <color name="colorGray">#D3D3D3</color>
+    <color name="colorWhite">#FFF</color>
+
+    <color name="colorGreen">#008000</color>
+    <color name="colorDashRed">#ab1b5c</color>
+    <color name="colorDashLightRed">#D3D3D3</color>
+    <color name="colorNewBgColor">#212765</color>
+
+    <color name="colorStsRed">#C0392B</color>
+    <color name="colorStsGreen">#27AE60</color>
+    <color name="colorStsYellow">#D4AC0D</color>
+
+</resources>
